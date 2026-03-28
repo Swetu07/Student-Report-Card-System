@@ -118,6 +118,4 @@ B.Tech CSE | Python Backend Developer (in progress)
 
 ---
 
-## 📌 This is Day 11 of my #100DaysOfCode journey
-
 Built as part of a structured Python learning roadmap — from basics to backend development.
